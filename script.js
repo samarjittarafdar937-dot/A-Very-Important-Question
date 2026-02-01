@@ -37,10 +37,10 @@ window.onload = function () {
       this.textContent = "Hooray!";
       img.src = "Yes2.png";
     } else if (this.textContent === "Hooray!") {
-      this.textContent = "I love you!";
+      this.textContent = "I love you tohh";
     } else {
       document.body.innerHTML =
-        "<div style='text-align: center; color: black;'><img src='Yes3.gif' alt='Love Image' style='max-width: 100%; height: auto;'><h1>I love you, bubu</h1></div>";
+        "<div style='text-align: center; color: black;'><img src='Yes3.gif' alt='Love Image' style='max-width: 100%; height: auto;'><h1>I love you, bubuu</h1></div>";
     }
   });
 
