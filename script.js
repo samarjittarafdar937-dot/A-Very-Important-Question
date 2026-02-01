@@ -40,7 +40,7 @@ window.onload = function () {
       this.textContent = "I love you!";
     } else {
       document.body.innerHTML =
-        "<div style='text-align: center; color: black;'><img src='Yes3.gif' alt='Love Image' style='max-width: 100%; height: auto;'><h1>I love you, Bohdan</h1></div>";
+        "<div style='text-align: center; color: black;'><img src='Yes3.gif' alt='Love Image' style='max-width: 100%; height: auto;'><h1>I love you, bubu</h1></div>";
     }
   });
 
