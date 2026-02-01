@@ -15,16 +15,16 @@ window.onload = function () {
     "Please",
     "Are you sure?",
     "Really sure??",
-    "Bohdan, you are dupa",
-    "I will kill your dupa",
-    "You are breaking my heard :(",
+    "pupuuu,please",
+    "I will kill you pupu",
+    "You are breaking my heart popla:(",
     "Ok, I'll stop asking...",
     "Just kidding",
     "Please",
     "I'll be very very very sad",
     "Please",
     "No",
-    "Piska ty",
+    "popleswarrr!!",
     "You'll be mine hehe",
   ];
   var currentIndex = 0;
@@ -77,7 +77,7 @@ window.onload = function () {
       // Change content on "Yes" button click when full screen
       yesButton.onclick = function () {
         document.body.innerHTML =
-          "<div style='text-align: center; color: black;'><h1>I love you, Bohdan</h1><img src='Yes2.png' alt='Love Image' style='max-width: 100%; height: auto;'></div>";
+          "<div style='text-align: center; color: black;'><h1>I love you, pupu</h1><img src='Yes2.png' alt='Love Image' style='max-width: 100%; height: auto;'></div>";
       };
     }
   });
